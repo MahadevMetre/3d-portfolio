@@ -1,1 +1,5 @@
-pages_build_output_dir = "dist"
+name = "akash-portfolio"
+compatibility_date = "2026-03-28"
+
+[assets]
+directory = "./dist"
