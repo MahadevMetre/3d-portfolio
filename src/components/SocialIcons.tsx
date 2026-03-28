@@ -98,7 +98,7 @@ const SocialIcons = () => {
       </div>
       <a
         className="resume-button"
-        href="/Mahadev Metre_DevOps Engineer"
+        href="/Mahadev_Metre_DevOps_Engineer"
         target="_blank"
         rel="noreferrer"
       >
